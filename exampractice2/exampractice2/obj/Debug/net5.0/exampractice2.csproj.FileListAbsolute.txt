@@ -1,0 +1,16 @@
+P:\exampractice2\exampractice2\bin\Debug\net5.0\exampractice2.exe
+P:\exampractice2\exampractice2\bin\Debug\net5.0\exampractice2.deps.json
+P:\exampractice2\exampractice2\bin\Debug\net5.0\exampractice2.runtimeconfig.json
+P:\exampractice2\exampractice2\bin\Debug\net5.0\exampractice2.runtimeconfig.dev.json
+P:\exampractice2\exampractice2\bin\Debug\net5.0\exampractice2.dll
+P:\exampractice2\exampractice2\bin\Debug\net5.0\ref\exampractice2.dll
+P:\exampractice2\exampractice2\bin\Debug\net5.0\exampractice2.pdb
+P:\exampractice2\exampractice2\obj\Debug\net5.0\exampractice2.csproj.AssemblyReference.cache
+P:\exampractice2\exampractice2\obj\Debug\net5.0\exampractice2.GeneratedMSBuildEditorConfig.editorconfig
+P:\exampractice2\exampractice2\obj\Debug\net5.0\exampractice2.AssemblyInfoInputs.cache
+P:\exampractice2\exampractice2\obj\Debug\net5.0\exampractice2.AssemblyInfo.cs
+P:\exampractice2\exampractice2\obj\Debug\net5.0\exampractice2.csproj.CoreCompileInputs.cache
+P:\exampractice2\exampractice2\obj\Debug\net5.0\exampractice2.dll
+P:\exampractice2\exampractice2\obj\Debug\net5.0\ref\exampractice2.dll
+P:\exampractice2\exampractice2\obj\Debug\net5.0\exampractice2.pdb
+P:\exampractice2\exampractice2\obj\Debug\net5.0\exampractice2.genruntimeconfig.cache
